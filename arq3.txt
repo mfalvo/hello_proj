@@ -3,7 +3,8 @@
 
  Pasta de C:\Users\14151288805\hello_proj
 
-xxxxxxxxxx  xxxxx  <DIR>          .
+
+zzzzzzzzzz  zzzzz    <DIR>          .
 14/05/2026  20:45    <DIR>          ..
 14/05/2026  20:45               549 arq1.txt
 14/05/2026  20:45               595 arq2.txt
